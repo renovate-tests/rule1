@@ -1,0 +1,7 @@
+{
+  "packageRules": [{
+      "paths": ["+(e2e/a11/package.json)"],
+      "packageNames": ["rxjs"],
+      "allowedVersions": "<=6.5"
+    }]
+}
